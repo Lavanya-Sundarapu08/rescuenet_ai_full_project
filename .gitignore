@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+.npm/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Environment
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
