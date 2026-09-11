@@ -1,4 +1,4 @@
-# RescueNet AI — Real-Time Disaster Command Center GIS Platform (SIH26191)
+# RescueNet AI — Real-Time Disaster Command Center GIS Platform
 
 An Emergency Operations Center (EOC) platform featuring 3D terrain hydrology GIS mapping, multi-hazard cascade tracking (Cyclone Shakti -> Extreme Rainfall -> River Surge -> Landslide Instability), pre-impact lead-time evacuation priority ranking, certified relief capacity headroom tracking, and an AI Decision Assistant.
 
